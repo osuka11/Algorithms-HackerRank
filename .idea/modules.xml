@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Easy/Easy.iml" filepath="$PROJECT_DIR$/Easy/Easy.iml" />
       <module fileurl="file://$PROJECT_DIR$/HackerRank Algorithms.iml" filepath="$PROJECT_DIR$/HackerRank Algorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Easy/SimpleArraySum/SimpleArraySum.iml" filepath="$PROJECT_DIR$/Easy/SimpleArraySum/SimpleArraySum.iml" />
     </modules>
   </component>
 </project>
