@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Easy/CompareTheTriplets/CompareTheTriplets.iml" filepath="$PROJECT_DIR$/Easy/CompareTheTriplets/CompareTheTriplets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Easy/DiagonalDifference/DiagonalDifference.iml" filepath="$PROJECT_DIR$/Easy/DiagonalDifference/DiagonalDifference.iml" />
       <module fileurl="file://$PROJECT_DIR$/Easy/Easy.iml" filepath="$PROJECT_DIR$/Easy/Easy.iml" />
       <module fileurl="file://$PROJECT_DIR$/HackerRank Algorithms.iml" filepath="$PROJECT_DIR$/HackerRank Algorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Easy/PlusMinus/PlusMinus.iml" filepath="$PROJECT_DIR$/Easy/PlusMinus/PlusMinus.iml" />
       <module fileurl="file://$PROJECT_DIR$/Easy/SimpleArraySum/SimpleArraySum.iml" filepath="$PROJECT_DIR$/Easy/SimpleArraySum/SimpleArraySum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Easy/Staircase/Staircase.iml" filepath="$PROJECT_DIR$/Easy/Staircase/Staircase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Easy/VeryBigSum/VeryBigSum.iml" filepath="$PROJECT_DIR$/Easy/VeryBigSum/VeryBigSum.iml" />
     </modules>
   </component>
 </project>
